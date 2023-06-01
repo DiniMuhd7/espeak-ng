@@ -41,48 +41,48 @@ _6      shida
 _7      bakwai
 _8      takwas
 _9      tara
-_1X     k'umi
-_2X     iSiR'ini
-_3X     TeleT'ini
-_4X     aRoba'ini
-_5X     hams'ini
-_6X     sit'ini
-_7X     sab'ini
-_8X     Teman'ini
-_9X     tis'ini
-_0C     m'ia
-_1C     m,iam'oJa
-_2C     m,ia_|mb'ili
-_3C     m,iat'atu
-_4C     m,ia'n-ne
-_5C     m,iat'ano
-_6C     m,ias'ita
-_7C     m,ias'aba
-_8C     m,ian'ane
-_9C     m,iat'isa
-_0M1    'elfu
-_1M1    ,elfum'oJa
-_2M1    ,elfu_|mb'ili
-_3M1    ,elfut'atu
-_4M1    ,elfu'n-ne
-_5M1    ,elfut'ano
-_6M1    ,elfus'ita
-_7M1    ,elfus'aba
-_8M1    ,elfun'ane
-_9M1    ,elfut'isa
-_1M2	l'akim'oJa
-_2M2	l'aki_|mb'ili
-_3M2	l'akit'atu
-_4M2	l'aki'n-ne
-_5M2	l'akit'ano
-_6M2	l'akis'ita
-_7M2	l'akis'aba
-_8M2	l'akin'ane
-_9M2	l'akit'isa
-_0M3	_|mili'oni  // 1,000,000
-_0M4	_|bili'oni
-_dpt    _nukta
-_0and   _|na
+_1X     goma
+_2X     ashirin
+_3X     talatin
+_4X     arba'in
+_5X     hamsin
+_6X     sittin
+_7X     saba'in
+_8X     tamanin
+_9X     casa'in
+_0C     ɗari
+_1C     ɗari ɗaya
+_2C     ɗari biyu
+_3C     ɗari uku
+_4C     ɗari huɗu
+_5C     ɗari biyar
+_6C     ɗari shida
+_7C     ɗari bakwai
+_8C     ɗari takwas
+_9C     ɗari tara
+_0M1    dubu
+_1M1    dubu ɗaya
+_2M1    dubu biyu
+_3M1    dubu uku
+_4M1    dubu huɗu
+_5M1    dubu biyar
+_6M1    dubu shida
+_7M1    dubu bakwai
+_8M1    dubu takwas
+_9M1    dubu tara
+_1M2	dubu ɗari ɗaya
+_2M2	dubu ɗari biyu
+_3M2	dubu ɗari uku
+_4M2	dubu ɗari huɗu
+_5M2	dubu ɗari biyar
+_6M2	dubu ɗari shida
+_7M2	dubu ɗari bakwai
+_8M2	dubu ɗari takwas
+_9M2	dubu ɗari tara
+_0M3	miliyan  // 1,000,000
+_0M4	biliyan
+_dpt    ɗugo
+_0and   da
 
 
 li      $u   // it
