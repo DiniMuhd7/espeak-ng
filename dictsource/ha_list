@@ -2,11 +2,11 @@
 // This file is UTF-8 encoded.
 
 // letters
-a eh
+a e
 b	bi
 c	si
 d	di
-e iy
+e i
 f	ef
 g	ji
 h	eIts
@@ -85,17 +85,17 @@ _dpt    ɗugo
 _0and   da
 
 
-li      $u   // it
-si      $u   // is-not
-yu      $u   // he,she,it
-zi      $u   // they,them
-u       $u+   // you,it
+shi      $u   // it
+ba      $u   // is-not
+abu      $u   // he,she,it
+su      $u   // they,them
+ku       $u+   // you,it
 
 ni	$u+  // i,me,you,  is,are
 ku      $u+  // it,you
-m       $u+  // you,him,it
-m       em $atend
-tu      $u+  // we,us,only,just
+shi       $u+  // you,him,it
+ni       em $atend
+mu      $u+  // we,us,only,just
 
 nami    $u+
 nawe    $u+
