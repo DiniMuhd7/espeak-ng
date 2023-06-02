@@ -118,6 +118,7 @@ nashi     $u     // his
 nata     $u     // her
 nasu     $u     // their
 akwai     $u     // there is
+babu     $u     // there is-not
 wannan     $u     // this
 waɗannan     $u     // these
 waɗancan    $u+    // those,that (previously menioned)
@@ -127,11 +128,13 @@ waɗancan    $u+    // those,that (previously menioned)
 na      $u $brk   // of, by, they, them
 ta      $u $brk   // of, by, they,them
 a'a      $u $brk   // no
+e      $u $brk   // yes
 domin      $u $brk   // for
 
-bi      $u $brk       // in
-fi      $u $brk       // in,on
-pa      $u $brk       // at
+cikin      $u $brk       // in
+waje      $u $brk       // out
+kan      $u $brk       // on
+a      $u $brk       // at
 
 min     $u $brk       // from
 toka    $u $brk       // from
@@ -143,6 +146,7 @@ baada   $u $brk       // after
 bila    $u $pause     // without
 hadi    $u $pause     // up to
 huko    $u $brk       // there, as when
+yiwuwa    $u $brk       // there, as when
 
 kwacho  $pause        // by means of which
 kwalo   $pause        // by means of which
