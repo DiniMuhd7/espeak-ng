@@ -124,15 +124,10 @@ waɗancan    $u+    // those,that (previously menioned)
 
 
 // prepositions
-wa      $u $brk   // of
-ya      $u $brk   // of,by  they,them
-la      $u $brk   // of
-cha     $u $brk   // of
-vya     $u $brk   // of
-za      $u $brk   // of
-pa      $u $brk   // of
-kwa     $u $brk   // of
-mwa     $u $brk   // of
+na      $u $brk   // of, by, they, them
+ta      $u $brk   // of, by, they,them
+a'a      $u $brk   // no
+domin      $u $brk   // for
 
 bi      $u $brk       // in
 fi      $u $brk       // in,on
