@@ -131,22 +131,26 @@ a'a      $u $brk   // no
 e      $u $brk   // yes
 domin      $u $brk   // for
 
-cikin      $u $brk       // in
+ciki      $u $brk       // in
 waje      $u $brk       // out
 kan      $u $brk       // on
 a      $u $brk       // at
 
-min     $u $brk       // from
-toka    $u $brk       // from
-katika  $u $brk       // from, out of
-kuanzia $brk          // from,since
-tangu   Su $brk       // from,between
-hata    $u $pause     // until
-baada   $u $brk       // after
-bila    $u $pause     // without
-hadi    $u $pause     // up to
-huko    $u $brk       // there, as when
-yiwuwa    $u $brk       // there, as when
+daga     $u $brk       // from, out of
+zuwa     $u $brk       // to
+tun $u $brk          // since
+tuni $u $brk          // already
+tuna $u $brk          // remember
+tsakani   $u $brk       // between
+saida    $u $pause     // until
+sannan $u $brk          // then
+bayan   $u $brk       // after, behind, beyond, past
+kafin   $u $brk       // before
+babu    $u $pause     // without
+har zuwa    $u $pause     // up to
+can    $u $brk       // there
+yaushe   $u $brk       // when
+watakila    $u $brk       // maybe
 
 kwacho  $pause        // by means of which
 kwalo   $pause        // by means of which
