@@ -95,24 +95,24 @@ kai      $u   // you male, head
 ke      $u   // you female
 ni     $u   // me, it
 
-tare dani    $u+
-tare dakai    $u+
-tare dashi    $u+
-tare da'ita    $u+
-tare damu    $u+
-dakai   $u+
-tare dasu     $u+
-tare daku    $u+
+tare dani    $u+ // with me
+tare dakai    $u // with you
+tare dashi    $u+ // with him
+tare da'ita    $u+ // with her
+tare damu    $u+ // with us
+da kai   $u+ // and you
+tare dasu     $u+ // with them
+tare daku    $u+ // with you all
 
 // pronouns
-ni    $u+
-mu    $u+
-kai    $u+
-ku  $u+
-shi    $u+
-ita    $u+
-ke    $u+
-su     $u+
+ni    $u+ // me
+mu    $u+ // we
+kai    $u+ // you male
+ku  $u+ // you all
+shi    $u+ // him
+ita    $u+ // she
+ke    $u+ // you female
+su     $u+ // them
 
 nashi     $u     // his
 nata     $u     // her
@@ -125,8 +125,8 @@ waɗancan    $u+    // those,that (previously menioned)
 
 
 // prepositions
-na      $u $brk   // of, by, they, them
-ta      $u $brk   // of, by, they,them
+na      $u $brk   // of, by, they, them - male
+ta      $u $brk   // of, by, they,them - female
 a'a      $u $brk   // no
 e      $u $brk   // yes
 domin      $u $brk   // for
@@ -143,11 +143,12 @@ tuni $u $brk          // already
 tuna $u $brk          // remember
 tsakani   $u $brk       // between
 saida    $u $pause     // until
+saidai    $u $pause     // unless
 sannan $u $brk          // then
 bayan   $u $brk       // after, behind, beyond, past
 kafin   $u $brk       // before
 babu    $u $pause     // without
-har zuwa    $u $pause     // up to
+har'izuwa    $u $pause     // up to
 can    $u $brk       // there
 yaushe   $u $brk       // when
 watakila    $u $brk       // maybe
