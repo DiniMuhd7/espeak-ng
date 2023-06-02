@@ -143,8 +143,6 @@ tuni $u $brk          // already
 tuna $u $brk          // remember
 tsakani   $u $brk       // between
 saida    $u $pause     // until
-saidai    $u $pause     // unless
-sannan $u $brk          // then
 bayan   $u $brk       // after, behind, beyond, past
 kafin   $u $brk       // before
 babu    $u $pause     // without
@@ -153,44 +151,43 @@ can    $u $brk       // there
 yaushe   $u $brk       // when
 watakila    $u $brk       // maybe
 
-kwacho  $pause        // by means of which
-kwalo   $pause        // by means of which
-kwao    $pause        // by means of which
-kwavyo  $pause        // by means of which
-kwaye   $pause        // by means of which
+hanyar  $pause        // the way
+zuwa garesu    $pause        // to them
+zuwa gareku    $pause        // to you all
+saboda haka  $pause        // therefore
+to   $pause        // okay
+da gaske   $pause        // really
 
-kwa     $u      // with
-mwenye  $u $brk       // with
-wenye   $u $brk       // with
-yenye   $u $brk       // with
-1enye   $u $brk       // with
-chenye   $u $brk      // with
-vyenye   $u $brk      // with
-zenye   $u $brk       // with
-malipo  $unstressend
+mai shi  $u $brk       // owner
+ina da   $u $brk       // i have
+tare da   $u $brk       // with
+1ɗaya   $u $brk       // 1one
+ƙunshi   $u $brk      // contain
+ɗauke da   $u $brk       // containing
+biya  $unstressend // payment
 
 
 
 // conjunctions
-na	  $u $pause   // and
-ama       $u $pause   // or
-ao        $u $pause   // or
-au        $u $pause   // or
-aidha     $pause      // and
-bali      $u $pause   // but
-ila       $pause      // but,except
-angao     $pause      // although
-badalaya  $pause      // instead
-basi      $u+ $pause   // so,then
-ili       $u+ $pause   // so that
-ilikwamba $pause      // so that
-ijapo     $pause      // although, even if
-ijapokuwa $pause      // although
-ingawa    $pause      // although
-iwapo     $pause      // when
-japo      $pause
-(juu ya)  J,u:ja  $pause  // as for
-kama      $u+ $pause   // if,like
+da	  $u $pause   // and
+ko       $u $pause   // or
+ko dai        $u $pause   // either
+iri ɗaya     $pause      // same
+amma      $u $pause   // but
+saidai     $u  $pause      // except, unless
+saidai    $u $pause     // unless, except
+koda yake     $pause      // although
+maimakon haka  $pause      // instead
+sannan      $u+ $pause   // so,then
+don haka       $u+ $pause   // so that
+cewar haka $pause      // that said
+koda kuwa     $pause      // although, even if
+ko tayaya $pause      // whatever
+ko dayake    $pause      // though
+idan     $pause      // if
+ko ta'ina      $pause // wherever
+gameda na  $pause  // as for
+kamar      $u+ $pause   // like
 kisha     $pause      // moreover
 kusudi    $pause      // in order to
 kuwa      $u $pause   // that
