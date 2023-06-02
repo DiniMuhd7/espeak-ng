@@ -84,26 +84,25 @@ _0M4	biliyan
 _dpt    ɗugo
 _0and   da
 
-
-shi      $u   // it
+abu      $u   // it, thing
 ba      $u   // is-not
-abu      $u   // he,she,it
+ita      $u   // she, it
+shi      $u   // he, it
 su      $u   // they,them
-ku       $u+   // you,it
+ku       $u+   // them
+mu       $u+   // we, us
+kai      $u   // you male, head
+ke      $u   // you female
+ni     $u   // me, it
 
-ni	$u+  // i,me,you,  is,are
-ku      $u+  // it,you
-shi       $u+  // you,him,it
-ni       em $atend
-mu      $u+  // we,us,only,just
-
-nami    $u+
-nawe    $u+
-naye    $u+
-nasi    $u+
-nanyi   $u+
-nao     $u+
-
+tare dani    $u+
+tare dakai    $u+
+tare dashi    $u+
+tare da'ita    $u+
+tare damu    $u+
+dakai   $u+
+tare dasu     $u+
+tare daku    $u+
 
 // pronouns
 mimi    $u+
