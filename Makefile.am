@@ -555,7 +555,8 @@ dictionaries: \
 	espeak-ng-data/ur_dict \
 	espeak-ng-data/uz_dict \
 	espeak-ng-data/vi_dict \
-	espeak-ng-data/yue_dict
+	espeak-ng-data/ha_dict \
+	espeak-ng-data/yue_dict 
 
 DICTSOURCE = \
 	$(wildcard dictsource/*_emoji) \
@@ -863,6 +864,9 @@ espeak-ng-data/sl_dict: dictsource/sl_list dictsource/sl_rules dictsource/sl_ext
 
 smj: espeak-ng-data/smj_dict
 espeak-ng-data/smj_dict: dictsource/smj_list dictsource/smj_rules
+
+ha: espeak-ng-data/ha_dict
+espeak-ng-data/ha_dict: dictsource/ha_list dictsource/ha_rules
 
 sq: espeak-ng-data/sq_dict
 espeak-ng-data/sq_dict: dictsource/sq_list dictsource/sq_rules dictsource/sq_extra dictsource/sq_emoji
